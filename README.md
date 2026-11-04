@@ -3,7 +3,7 @@
 <a id="korean"></a>
 ## 생성형 AI와 함께 배우는 데이터 시각화 — 2주차
 
-박사, 조수, 초파리 연구원, money-robo 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 2주차 전체가 담겨 있습니다 — 그래프 이론과 첫 실습, 이론 A, 이론 B, Colab 환경, 실습 ①②, 실습 ③과 정리.
+박사, 조수, 초파리 연구원, 주판봇 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 2주차 전체가 담겨 있습니다 — 그래프 이론과 첫 실습, 이론 A, 이론 B, Colab 환경, 실습 ①②, 실습 ③과 정리.
 
 바로 보기: https://adminmrobo.github.io/dv-week2/
 
@@ -67,7 +67,7 @@
 <a id="english"></a>
 ## Data Visualization with Generative AI — Week 2
 
-An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, money-robo — teach through dialogue. This repository holds all of Week 2: Chart Theory and First Practice, Theory A, Theory B, Colab Environment, Labs ①②, Lab ③ and Wrap-up.
+An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, AbaBot — teach through dialogue. This repository holds all of Week 2: Chart Theory and First Practice, Theory A, Theory B, Colab Environment, Labs ①②, Lab ③ and Wrap-up.
 
 Read online: https://adminmrobo.github.io/dv-week2/en/week2_index.html
 
@@ -131,7 +131,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="chinese"></a>
 ## 与生成式AI一起学数据可视化 — 第2周
 
-由四位角色（博士、助手、果蝇研究员、money-robo）的对话展开的互动式讲义页面。本仓库收录第2周全部内容：图表理论与首次实践, 理论A, 理论B, Colab 环境, 实操①②, 实操③与总结。
+由四位角色（博士、助手、果蝇研究员、算盘宝）的对话展开的互动式讲义页面。本仓库收录第2周全部内容：图表理论与首次实践, 理论A, 理论B, Colab 环境, 实操①②, 实操③与总结。
 
 在线阅读: https://adminmrobo.github.io/dv-week2/zh/week2_index.html
 
@@ -195,7 +195,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="japanese"></a>
 ## 生成AIと学ぶデータ可視化 — 第2週
 
-博士・アシスタント・ショウジョウバエ研究員・money-roboの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第2週全体（グラフ理論と初実習, 理論A, 理論B, Colab環境, 実習①②, 実習③とまとめ）を収めています。
+博士・アシスタント・ショウジョウバエ研究員・アバボットの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第2週全体（グラフ理論と初実習, 理論A, 理論B, Colab環境, 実習①②, 実習③とまとめ）を収めています。
 
 オンラインで読む: https://adminmrobo.github.io/dv-week2/ja/week2_index.html
 
@@ -259,7 +259,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="uzbek"></a>
 ## Generativ AI bilan maʼlumot vizualizatsiyasi — 2-hafta
 
-Professor, Yordamchi, Drozofila tadqiqotchisi, money-robo — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 2-hafta toʻliq bor: Diagramma nazariyasi va birinchi amaliyot, A nazariya, B nazariya, Colab muhiti, Amaliyot ①②, Amaliyot ③ va xulosa.
+Professor, Yordamchi, Drozofila tadqiqotchisi, AbaBot — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 2-hafta toʻliq bor: Diagramma nazariyasi va birinchi amaliyot, A nazariya, B nazariya, Colab muhiti, Amaliyot ①②, Amaliyot ③ va xulosa.
 
 Onlayn oʻqish: https://adminmrobo.github.io/dv-week2/uz/week2_index.html
 
@@ -323,7 +323,7 @@ Manba koʻrsatish namunasi: Sangsun Ahn, “Generativ AI bilan maʼlumot vizuali
 <a id="russian"></a>
 ## Визуализация данных с генеративным ИИ — Неделя 2
 
-Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, money-robo) в форме диалога. В этом репозитории вся неделя 2: Теория графиков и первая практика, Теория A, Теория B, Среда Colab, Практики ①②, Практика ③ и итоги.
+Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, АбаБот) в форме диалога. В этом репозитории вся неделя 2: Теория графиков и первая практика, Теория A, Теория B, Среда Colab, Практики ①②, Практика ③ и итоги.
 
 Читать онлайн: https://adminmrobo.github.io/dv-week2/ru/week2_index.html
 
